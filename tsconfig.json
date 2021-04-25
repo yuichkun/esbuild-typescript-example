@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {},
+    // "useDefineForClassFields": false,
+    // "importsNotUsedAsValues": "remove",
+    // "jsxFactory": "React.createElement",
+    // "jsxFragmentFactory": "React.Fragment"
+  },
+  // "extends": ""
+}
