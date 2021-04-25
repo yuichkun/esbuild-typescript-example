@@ -1,5 +1,5 @@
 import cowsay from 'cowsay'
 
-export function sayBye() {
-  return cowsay.say('Bye bye!')
+export function sayBye(name: string) {
+  return cowsay.say(`Bye bye! ${name}!`)
 }

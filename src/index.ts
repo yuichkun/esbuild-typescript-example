@@ -1,5 +1,7 @@
 import { sayHello, sayBye, think } from "./greetings";
 
-sayHello()
-think()
-sayBye()
+const myName = 'John'
+
+sayHello(myName)
+think(true)
+sayBye(myName)
